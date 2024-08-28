@@ -4,7 +4,7 @@ The Resume Builder is a web application built using the MERN stack (MongoDB, Exp
 
 - **User Authentication:** Secure authentication using JWT (JSON Web Tokens) for both job seekers and employers.
 - **Profile Management:** Users can manage their personal information, work experience, education, skills, and achievements.
-- **Template Selection:**Multiple professionally designed resume templates to choose from.
+- **Template Selection:** Multiple professionally designed resume templates to choose from.
   **Real-Time Preview:** Users can see a real-time preview of their resume as they edit.
 - **Export Options:** Download resumes in PDF format.
 - **Responsive Design:** Ensures a seamless experience across all devices.
